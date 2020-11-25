@@ -1,10 +1,10 @@
 # Written by Pedro Coelho
-#
-# NOV 2020
-#
-# Work in development
 
-# Firefox-ESR add-ons:
+## NOV 2020
+
+## Work in development
+
+- Firefox-ESR add-ons:
 	- uBlock Origin
 	- RES
 	- LeechBlock
