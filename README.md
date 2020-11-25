@@ -8,10 +8,10 @@
 	- uBlock Origin
 	- RES
 	- LeechBlock
-		. reddit.com
-		. chess.com
-		. pokemonshowdown.com
-		. youtube.com
+		- reddit.com
+		- chess.com
+		- pokemonshowdown.com
+		- youtube.com
 	- Old Reddit Redirect
 	- BetterTTV
 	- Hover Zoom+
